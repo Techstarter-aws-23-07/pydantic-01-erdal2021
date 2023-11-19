@@ -14,3 +14,7 @@ sudo mysql -e "CREATE DATABASE starchaser; CREATE USER 'Hans'@'localhost' IDENTI
 
 # requirements.txt mit pip ausführen
 pip install -r requirements.txt
+
+# pip install pydantic
+# pip install pydantic[email]
+
